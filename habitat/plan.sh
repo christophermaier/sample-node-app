@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=cmtest
+pkg_origin=christophermaier
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
